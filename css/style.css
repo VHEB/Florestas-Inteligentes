@@ -1,0 +1,11 @@
+/* Estilização das soluções: inicialmente escondidas */
+.solution {
+    display: none;
+  }
+  
+  /* Outras estilizações que desejar */
+  body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  

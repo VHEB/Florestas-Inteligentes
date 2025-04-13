@@ -1,4 +1,4 @@
-<h1 align="center"> Florestas Inteligêntes - 4º Edição - Equipe 5 </h1>
+<h1 align="center"> Florestas Inteligentes - 4º Edição - Equipe 5 </h1>
 
 <p align="center">
   <a href="#-guia">Guia</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -50,7 +50,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 **Projeto**
 
-Lane Page do manual de utilização das soluções propostas pela Equipe 5 - Arangá, do projeto Florestas Inteligêntes 4º edição.
+Lane Page do manual de utilização das soluções propostas pela Equipe 5 - Arangá, do projeto Florestas Inteligentes 4º edição.
 
 ---
 
